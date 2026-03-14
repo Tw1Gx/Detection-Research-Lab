@@ -21,4 +21,4 @@ It is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc
 Commercial use is prohibited.
 
 ---
-*Created by Johannes Grönhed - GCFA Certified | Detection Engineer*
+*Created by Tw1gx - GCFA Certified | Detection Engineer*
